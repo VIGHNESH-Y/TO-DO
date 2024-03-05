@@ -1,20 +1,42 @@
-h1{
-    color: rgb(1765, 193, 36);
+Sure, here's the CSS code without comments:
+
+```css
+h1 {
+    color: rgb(176, 5, 193);
     padding: 20px;
     padding-left: 12px;
-
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(200, 200, 255));
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-h4{
+
+h4 {
     color: brown;
     padding: 20px;
     padding-left: 12px;
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 200, 200));
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-button{
+
+button {
     color: blueviolet;
     background-color: rgb(236, 214, 187);
     margin: 0;
+    border: none;
     border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
 }
-label{
+
+button:hover {
+    transform: scale(1.1);
+}
+
+label {
     color: cornflowerblue;
+    font-weight: bold;
 }
+```
