@@ -29,6 +29,12 @@ If you would like to contribute to this project, please follow our guidelines fo
 
 The project was developed by Harshika,Vighnesh who can be found on GitHub [here](link to author's GitHub profile).
 
+## Updates
+
+- Favicon must be added..
+- Must fix the layout for it to look modern.
+- Fix Bugs and Optimize the code
+
 
 
 
